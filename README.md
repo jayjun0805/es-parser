@@ -1,4 +1,4 @@
-# es-parser
+# learn-es-parser
 ES 新语法转为 ES5
 
 # Command
