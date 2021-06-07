@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jayjun0805/es-parser.git"
+    "url": "git+https://github.com/jayjun0805/learn-es-parser.git"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
